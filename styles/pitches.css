@@ -690,7 +690,7 @@ body > header {
   background: var(--offwhite);
   border-left: 6px solid var(--dark-green);
 }
-.status-note--open { background: var(--light-green); }   /* near-black text on light green: 9.4:1 */
+.status-note--open { background: #D2EACC;}
 .status-note--open .status-note__title { color: var(--blackish); }
 .status-note__title { font-size: clamp(1.6rem, 1.3rem + 1.2vw, 2.1rem); margin: 0 0 0.5rem; }
 .prose .status-note__title { margin-top: 0; }
